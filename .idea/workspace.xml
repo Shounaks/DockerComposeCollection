@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c10c570c-3297-48c1-b6ff-41afe876800f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerComposeCollection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/mongoDB/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/mySqlDB/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/postgresDB/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="c10c570c-3297-48c1-b6ff-41afe876800f" name="Changes" comment="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +22,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,6 +35,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658387185023</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml">
+      <created>1658389262951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658389262951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +55,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
   </component>
 </project>
