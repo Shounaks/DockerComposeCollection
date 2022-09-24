@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c10c570c-3297-48c1-b6ff-41afe876800f" name="Changes" comment="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
+    <list default="true" id="c10c570c-3297-48c1-b6ff-41afe876800f" name="Changes" comment="Adding ElasticSearch-Kibana working Docker-Compose">
+      <change afterPath="$PROJECT_DIR$/resources/Jenkins Server/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/ngNix/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/ngNix/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +23,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shounak/Desktop/DockerComposeCollection/resources/ELK Stack (ElasticSearch, Kibana, LogStash)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shounak\Desktop\DockerComposeCollection\resources\ELK Stack (ElasticSearch, Kibana, LogStash)" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658389262951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml">
+      <created>1658389679317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658389679317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding ElasticSearch-Kibana working Docker-Compose">
+      <created>1661078428015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661078428015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding MongoDB, PostGresSQL and MySQL docker-compose.yml" />
+    <MESSAGE value="Adding ElasticSearch-Kibana working Docker-Compose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding ElasticSearch-Kibana working Docker-Compose" />
   </component>
 </project>
